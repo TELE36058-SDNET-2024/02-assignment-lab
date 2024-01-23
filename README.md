@@ -13,6 +13,7 @@ Netmiko is a Python library that simplifies the process of connecting to network
 - Basic understanding of Python programming.
 - Basic knowledge of networking concepts and device configurations.
 - Access to a network device or a network simulator.
+- Use 2 Network devices
 
 ## Part 1: Setting Up the Environment
 ### 1. Install Netmiko
